@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-white{
+    height: 2rem;
+}
+
+.card-title{
+    font-weight: 300;
+}
+
+.lugar-text{
+    font-size: 13px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.lugar-icono{
+    color: #707070;
+    font-size: 13px;
+}
+
+.empresa-text{
+    font-weight: 300;
+    color: #707070;
+}
+
+.precio-normal{
+    font-weight: 300;
+    color: #707070;
+}
+
+.precio-oferta{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.containerform{
+    background-color:#28A745;
+    text-align: center;
+    color: white;
+    padding: 2rem;
+    font-weight: 500;
+}
+
+.footer{
+    font-weight: 300;
+    color: #707070;
+    text-align: center;
+    padding: 2rem;
+}
+
+.logo-negro{
+    height: 2rem;
+}
